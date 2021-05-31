@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C4F71343-6397-89BF-392B-0AB7255AF657}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/MySpit.cs">
+    <Files>
+      <File FileName="Assets/Scenes/EnemySFX.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/Fireball.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/MySpit.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity In Action" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="MySpit.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d9514807-1ca7-46e5-bcb4-011f3b64dcef" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
